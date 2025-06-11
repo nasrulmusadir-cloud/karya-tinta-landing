@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/tripay-webhook",
+      "destination": "https://tripay-webhooknm.onrender.com/tripay-webhook"
+    }
+  ]
+}
